@@ -265,7 +265,7 @@ Bu proje size yardımcı olduysa bir ⭐ verin!
 
 <div align="center">
 
-**Made with ❤️ by Emil Veliyev**
+**Made by Emil Veliyev**
 
 [![GitHub](https://img.shields.io/badge/GitHub-emillvl-181717?style=for-the-badge&logo=github)](https://github.com/emillvl)
 
